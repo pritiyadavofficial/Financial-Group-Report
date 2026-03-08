@@ -3,10 +3,13 @@
 ## Project Context
 Welcome to the portfolio repository for the Executive Financial Performance Dashboard, developed specifically for The Finance Group. This Power BI solution centralizes disparate financial datasets into a single, interactive environment. By merging cash flow tracking, budget variance, product profitability, and revenue generation into one cohesive tool, this project equips senior leadership with the visibility required to monitor overarching fiscal health and operational agility.
 
-## The Business Challenge
+## The Business Problem Statement
 The Finance Group was struggling with siloed monthly reporting. Crucial metrics across Profit & Loss statements, Accounts Receivable/Payable aging, Cash Flow, and Sales were housed in separate domains. The executive team needed a unified, dynamic tracking solution. The goal was to build a centralized architecture that enabled instant cross-filtering by date, product category, and geographic region, allowing stakeholders to bypass manual data aggregation and immediately spot operational bottlenecks or working capital risks.
 
 ## Analytical Workflow & Data Modeling
+
+> Use File `Financial.pbix`
+
 To generate reliable, executive-grade insights, I executed a strict data transformation and modeling pipeline:
 
 * **Data Standardization:** Cleaned and formatted raw financial logs, ensuring all monthly reporting periods were strictly closed out. Standardized all aging data into precise, end-of-month snapshots.
@@ -27,8 +30,13 @@ Core visual components include:
 
 * **Cash Flow Waterfall:** A sequential breakdown visualizing the exact inflows and outflows bridging the opening and closing net cash positions.
 
+![](dash.png)
+
 
 ## Strategic Recommendations
+
+> Use File `The_Financial_Group_Report`
+
 Based on the robust financial modeling and dashboard insights, I propose the following strategic directives to the leadership team:
 
 * **Reel in Operating Expenses (OpEx):** The trend analysis clearly indicates that OpEx is taking a significant bite out of profitability, even during high-revenue months. Leadership must audit operational spending to ensure costs are scaling efficiently with sales growth, rather than eroding margins.
