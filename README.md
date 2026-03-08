@@ -35,7 +35,7 @@ Core visual components include:
 
 ## Strategic Recommendations
 
-> Use File `The_Financial_Group_Report`
+> Use File `The_Financial_Group_Report.pdf`
 
 Based on the robust financial modeling and dashboard insights, I propose the following strategic directives to the leadership team:
 
